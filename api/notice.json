@@ -1,10 +1,10 @@
 {
-  "id": "notice_github_01",
-  "enabled": true,
-  "type": "dialog",
-  "title": "来自 GitHub 云端的通知",
-  "content": "欢迎使用 GitHub 节点同步的公告！\n\n祝各位冒险家游戏愉快！",
-  "date": "2026-10-24",
-  "buttonText": "查看仓库",
-  "buttonUrl": "https://github.com/YinHuansleep/zhuzhu"
-}
+    "id": "notice_20261024_03",
+    "enabled": true,
+    "type": "dialog",
+    "title": "猪猪启动器 0.3 冒险家指南",
+    "content": "欢迎各位冒险家体验 猪猪启动器 快照版 0.3！\n\n• 主页已新增快捷常玩服务器视窗与时间动态问候；\n• 新增启动器内全自动热更新，无需再手动下载；\n• 如有任何建议欢迎点击下方按钮与我们取得联系。\n\n祝大家游戏愉快，在方块世界猪突猛进！",
+    "date": "2026-10-24",
+    "buttonText": "加入群聊 / 联系我们",
+    "buttonUrl": "https://qm.qq.com/q/eKyk619jgI"
+  }
