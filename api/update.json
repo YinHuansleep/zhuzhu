@@ -1,11 +1,16 @@
-{
-  "version": "0.2",
-  "versionCode": 2,
-  "releaseDate": "2026-10-24",
-  "title": "猪猪启动器 快照版 0.2",
-  "changelog": [
-    "支持 GitHub 国内 4 组镜像加速直连"
-  ],
-  "downloadUrl": "https://github.com/YinHuansleep/zhuzhu/releases/download/v0.2/猪猪启动器.exe",
-  "forceUpdate": false
-}
+ {
+    "version": "0.3",
+    "versionCode": 3,
+    "releaseDate": "2026-10-24",
+    "title": "🎉 猪猪启动器 快照版 0.3 全新发布！",
+    "changelog": [
+      "☀️【全天候时间问候】：主页支持根据现实时刻发送早安、午安与晚安问候，伴随每一段方块旅途~",
+      "🎮【常玩服务器视窗】：主页直接查看服务器名称、IP 与真实在线延迟，还可一键将服务器添加至游戏列表！",
+      "🚀【启动器内一键热更新】：无需打开网页，点击更新即可全自动下载、静默替换并自动重启生效！",
+      "🟢【灵动网络呼吸小圆点】：右上角新增清新的薄荷绿网络感知微圆点，连接状态一目了然；",
+      "👥【关于页小伙伴加盟】：特邀协力成员「小落」正式入驻，全员配备专属特色萌猪立绘！",
+      "🥕【冒险数据与趣味小贴士】：新增累计启动统计面板与充满惊喜的猪猪冷知识微光气泡。"
+    ],
+    "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.3/猪猪启动器.exe",
+    "forceUpdate": false
+  }
