@@ -1,0 +1,14 @@
+{
+  "version": "0.2",
+  "versionCode": 2,
+  "releaseDate": "2026-10-24",
+  "title": "猪猪启动器 快照版 0.2",
+  "changelog": [
+    "支持 GitHub 国内 4 组镜像加速直连",
+    "新增 -setserver 隐蔽配置管理窗口",
+    "日志移至 Logs 子目录并消灭 PCL 记号",
+    "右键详细信息原始文件名已纯化为 猪猪启动器.exe"
+  ],
+  "downloadUrl": "https://github.com/你的用户名/zhuzhu-service/releases/download/v0.2/猪猪启动器.exe",
+  "forceUpdate": false
+}
