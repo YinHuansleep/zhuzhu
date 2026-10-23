@@ -1,0 +1,10 @@
+{
+  "id": "notice_github_01",
+  "enabled": true,
+  "type": "dialog",
+  "title": "来自 GitHub 云端的通知",
+  "content": "欢迎使用 GitHub 节点同步的公告！\n\n祝各位冒险家游戏愉快！",
+  "date": "2026-10-24",
+  "buttonText": "查看仓库",
+  "buttonUrl": "https://github.com/YinHuansleep/zhuzhu"
+}
