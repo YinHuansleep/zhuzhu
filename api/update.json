@@ -1,9 +1,11 @@
 {
-  "version": "0.5.8",
-  "versionCode": 15,
+  "version": "0.5.9",
+  "versionCode": 16,
   "releaseDate": "2026-10-25",
-  "title": "🎉 猪猪启动器 快照版 0.5.8 重磅升级发布！",
+  "title": "🎉 猪猪启动器 快照版 0.5.9 整合引擎修复发布！",
   "changelog": [
+    "📦【整合包导出自打包闭环】：彻底根除导出时遗留的 Latest.exe 缺失报错，直接离线安全打包当前运行的纯净启动器程序，导出秒级完成；",
+    "📥【整合包导入容错全面加固】：加固自带启动器类与各类主流格式（CurseForge / Modrinth / HMCL / MMC）解压安装链路，杜绝空集合检索异常；",
     "🛡️【独立版本设置防崩固化】：根除进入版本设置时的空引用报错，装配全层级安全防崩隔离；",
     "📥【居中全景大弹窗更新】：启动器更新重构为正中央模态全景大卡片，双轨樱花粉大进度条、实时下载量与即时网速一目了然，支持随时取消；",
     "📊【任务管理全面仪表盘化】：打破陈旧框架！左侧新增圆环形进度仪表（Donut Ring）与最近 30 秒实时下载速度波动折线图；",
@@ -17,6 +19,6 @@
     "☀️【全天候早晚动态拟态】：晨昏昼夜自动轮转！根据早晨、下午、傍晚与深夜时刻，智能呈现专属特色萌猪立绘与个性化问候语录；",
     "🎮【Minecraft 官方 SLP 协议】：主页常玩服务器全面接入真实 SLP 握手，实时获取服务器真实 MOTD、在线人数、延迟信号格与 64x64 高清图标。"
   ],
-  "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.8/v0.5.8zhuzhu.exe",
+  "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.9/v0.5.9zhuzhu.exe",
   "forceUpdate": false
 }
