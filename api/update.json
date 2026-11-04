@@ -10,6 +10,6 @@
     "✨【套用皮肤双通道同步】：套用时自动将当前玩家模型更新为皮肤原生版型并同步 Profile JSON，进服联机完全一致；",
     "🦾【四肢物理自愈与无锁原子写盘】：单侧缺失皮肤自动镜像补齐，多线程并发 0 冲突。"
   ],
-  "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu/main/releases/v0.5.21zhuzhu.exe",
+  "downloadUrl": "https://gh-proxy.org/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.21/v0.5.21zhuzhu.exe",
   "forceUpdate": false
 }
