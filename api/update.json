@@ -1,15 +1,14 @@
 ﻿{
-  "version": "0.5.21",
-  "versionCode": 28,
-  "releaseDate": "2026-10-27",
-  "title": "🎉 猪猪启动器 快照版 0.5.21 3D 双层皮肤逐面剔除与智能版型自适应发布！",
-  "changelog": [
-    "👗【3D 双层皮肤外层逐面剔除】：附加层按面级探测透明度，100% 透明面片 0 生成 0 写入深度缓冲，彻底根除内层四肢被遮挡透明隐形 Bug；",
-    "🧠【Alex / Steve 版型全自动智能探测】：深度解析贴图留白特征，秒级识别 3px 纤细手臂与 4px 粗手臂，准确率 100%；",
-    "🌐【全网皮肤库无缝自适应】：浏览全网皮肤库或上传本地皮肤时，自动匹配最贴合骨骼，界面单选框秒级联动；",
-    "✨【套用皮肤双通道同步】：套用时自动将当前玩家模型更新为皮肤原生版型并同步 Profile JSON，进服联机完全一致；",
-    "🦾【四肢物理自愈与无锁原子写盘】：单侧缺失皮肤自动镜像补齐，多线程并发 0 冲突。"
-  ],
-  "downloadUrl": "https://gh-proxy.org/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.21/v0.5.21zhuzhu.exe",
-  "forceUpdate": false
+    "changelog":  [
+                      "🦾【彻底解决单臂皮肤左手焦黑 Bug】：重构为原生逐面独立镜像算法，严格保持手为手、肩为肩，彻底根除肩膀与手心颠倒导致的黑手问题；",
+                      "✨【Alex 手心手背全域留白补全】：对手部第一行与侧边留白区进行双层边缘色彩延展，彻底杜绝仰视袖口手部透明或空心；",
+                      "👗【双层外壳纯实体连续流网格】：严格仅生成实体像素小面片，彻底杜绝透明面片写入 Z-buffer 造成后背和手部遮蔽空洞；",
+                      "📏【Minecraft 官方原生贴身盒体】：全面对齐主流皮肤站正姿规范，四肢严丝合缝平整顺滑。"
+                  ],
+    "version":  "0.5.23",
+    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.23/v0.5.23zhuzhu.exe",
+    "versionCode":  30,
+    "releaseDate":  "2026-10-27",
+    "forceUpdate":  false,
+    "title":  "🎉 猪猪启动器 快照版 0.5.23 四肢镜像手部黑斑根除与全手掌饱满发布！"
 }
