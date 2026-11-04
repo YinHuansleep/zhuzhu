@@ -1,16 +1,15 @@
 ﻿{
-  "version": "0.5.20",
-  "versionCode": 27,
+  "version": "0.5.21",
+  "versionCode": 28,
   "releaseDate": "2026-10-27",
-  "title": "🎉 猪猪启动器 快照版 0.5.20 皮肤句柄锁冲突根治与静默加固发布！",
+  "title": "🎉 猪猪启动器 快照版 0.5.21 3D 双层皮肤逐面剔除与智能版型自适应发布！",
   "changelog": [
-    "🛡️【根除皮肤文件占用锁冲突】：重构自愈保存引擎为内存全闭环与原子写入，彻底消灭 CustomSkin.png 被占用弹窗红框；",
-    "🦾【健全皮肤极速短路跳过】：对健全完整的皮肤跳过重复磁盘擦写，0 句柄占用，0 冲突风险；",
-    "🤫【错误弹窗彻底降级静默】：自愈异常改为静默警告日志，绝不再向用户弹出打扰性的错误红框；",
-    "⚙️【CustomSkinLoader 零配置自动装配】：全自动注入并升级 CSL 多端配置，玩家只需把模组放入 mods 文件夹即可零配置秒级互通；",
-    "🌐【联机全员互通 JSON 双通道直传】：上传皮肤时同步生成并推送 Profile JSON 描述符，全服玩家互相看到正常皮肤；",
-    "✨【3D 模型 1024x1024 高清超采样】：彻底消灭 Direct3D 纹理发虚模糊，还原原生刀锋般锐利质感。"
+    "👗【3D 双层皮肤外层逐面剔除】：附加层按面级探测透明度，100% 透明面片 0 生成 0 写入深度缓冲，彻底根除内层四肢被遮挡透明隐形 Bug；",
+    "🧠【Alex / Steve 版型全自动智能探测】：深度解析贴图留白特征，秒级识别 3px 纤细手臂与 4px 粗手臂，准确率 100%；",
+    "🌐【全网皮肤库无缝自适应】：浏览全网皮肤库或上传本地皮肤时，自动匹配最贴合骨骼，界面单选框秒级联动；",
+    "✨【套用皮肤双通道同步】：套用时自动将当前玩家模型更新为皮肤原生版型并同步 Profile JSON，进服联机完全一致；",
+    "🦾【四肢物理自愈与无锁原子写盘】：单侧缺失皮肤自动镜像补齐，多线程并发 0 冲突。"
   ],
-  "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.20/v0.5.20zhuzhu.exe",
+  "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu/main/releases/v0.5.21zhuzhu.exe",
   "forceUpdate": false
 }
