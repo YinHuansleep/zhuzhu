@@ -1,14 +1,14 @@
 ﻿{
     "changelog":  [
-                      "🦾【彻底解决单臂皮肤左手焦黑 Bug】：重构为原生逐面独立镜像算法，严格保持手为手、肩为肩，彻底根除肩膀与手心颠倒导致的黑手问题；",
-                      "✨【Alex 手心手背全域留白补全】：对手部第一行与侧边留白区进行双层边缘色彩延展，彻底杜绝仰视袖口手部透明或空心；",
-                      "👗【双层外壳纯实体连续流网格】：严格仅生成实体像素小面片，彻底杜绝透明面片写入 Z-buffer 造成后背和手部遮蔽空洞；",
-                      "📏【Minecraft 官方原生贴身盒体】：全面对齐主流皮肤站正姿规范，四肢严丝合缝平整顺滑。"
+                      "🔐【注册新增 QQ 群验证码门禁】：注册表单新增验证码校验，在官方 QQ 群发送 #验证码 即可获取，杜绝机器人恶意乱注册；",
+                      "🚀【专属账号进服免验证码特许】：启动器专属登录玩家启动时自动报备特许名单，进服免输验证码秒玩；普通离线玩家进服强制验证码；",
+                      "💎【离线 UUID 100% 完好继承】：严格采用 Minecraft 原生离线 UUID，玩家背包物品、地皮建筑、箱子锁、点券零变动无损保留；",
+                      "🛡️【模组自动热更 6 重防御加固】：进程防冲突检测、.tmp 临时文件与 SHA1 完整校验、同名变动强力覆盖、客户端小地图白名单保护。"
                   ],
-    "version":  "0.5.23",
-    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.23/v0.5.23zhuzhu.exe",
-    "versionCode":  30,
-    "releaseDate":  "2026-10-27",
+    "version":  "0.5.27",
+    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.27/v0.5.27zhuzhu.exe",
+    "versionCode":  34,
+    "releaseDate":  "2026-11-09",
     "forceUpdate":  false,
-    "title":  "🎉 猪猪启动器 快照版 0.5.23 四肢镜像手部黑斑根除与全手掌饱满发布！"
+    "title":  "🎉 猪猪启动器 快照版 0.5.27 群验证码注册与专属免验证进服特许发布！"
 }
