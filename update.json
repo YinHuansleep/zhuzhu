@@ -1,0 +1,14 @@
+﻿{
+    "changelog":  [
+                      "🐷【专属登录状态全屏联动修复】：彻底解决专属账号登录成功后右上角仍显示 未登录的枚举匹配问题，右上角胶囊、菜单状态与主页问候语 100% 同步为真实角色名；",
+                      "🎨【动态头像与玩家皮肤变身】：专属账号登录后，右上角头像与左栏头像即刻无缝切换为玩家自身双层 Minecraft 像素头像；",
+                      "🔐【注册严格 QQ 群动态验证码】：清除任何测试免验证码，强制由官方 QQ 群发送 #验证码 获取绑定；",
+                      "📦【服主一键导出更新清单完美就绪】：双行通栏大按钮舒展大气，1秒精准导出 manifest.json。"
+                  ],
+    "version":  "0.5.29",
+    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.29/v0.5.29zhuzhu.exe",
+    "versionCode":  36,
+    "releaseDate":  "2026-11-09",
+    "forceUpdate":  false,
+    "title":  "🎉 猪猪启动器 快照版 0.5.29 专属登录状态与角色全屏同步修复发布！"
+}
