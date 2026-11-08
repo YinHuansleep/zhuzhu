@@ -1,14 +1,14 @@
 ﻿{
     "changelog":  [
-                      "🎨【导出清单按钮双行通栏重塑】：彻底解决按钮挤在同一行被边缘切断截断的视觉缺陷，第二行独立通栏铺展，排版美观大气；",
-                      "🛠️【根除 EnumerateFiles 类型转换报错】：彻底修复导出清单与模组同步时 *.jar 参数误转布尔值的类型异常，一键秒级导出；",
-                      "🔒【账号密码隔离与安全保障】：确认所有凭据严格仅保存在本机 Windows 注册表，整合包打包发送绝不泄露任何私人密码；",
-                      "🔄【跨多版本终态无损对齐】：支持任意跳版本更新，无论落后多少个版本，自动增量补齐模组，旧模组安全隔离备份。"
+                      "🚀【模组与清单多镜像无死角容灾】：模组更新与清单获取全面装配 gh-proxy、dpik.top、edgeone 三大国内高速代理镜像自动轮询与毫秒防缓存，0 失败率；",
+                      "⚡【开机更新检查全链路实测通过】：开机 1.5 秒无感静默检查自更新，发现新版本即刻弹出更新卡片并支持断点续传；",
+                      "💎【专属账号状态与角色名全屏打通】：右上角胶囊、菜单状态与主页问候语 100% 同步为真实角色名；",
+                      "📦【服主一键导出更新清单完美就绪】：双行通栏大按钮舒展大气，1秒精准导出 manifest.json。"
                   ],
-    "version":  "0.5.28",
-    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.28/v0.5.28zhuzhu.exe",
-    "versionCode":  35,
+    "version":  "0.5.30",
+    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.30/v0.5.30zhuzhu.exe",
+    "versionCode":  37,
     "releaseDate":  "2026-11-09",
     "forceUpdate":  false,
-    "title":  "🎉 猪猪启动器 快照版 0.5.28 清单导出修复与双行通栏按钮视觉重塑发布！"
+    "title":  "🎉 猪猪启动器 快照版 0.5.30 四大高速加速节点自动轮询与全链路实测发布！"
 }
