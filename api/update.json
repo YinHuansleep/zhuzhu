@@ -1,14 +1,14 @@
 ﻿{
     "changelog":  [
-                      "🚀【模组与清单多镜像无死角容灾】：模组更新与清单获取全面装配 gh-proxy、dpik.top、edgeone 三大国内高速代理镜像自动轮询与毫秒防缓存，0 失败率；",
-                      "⚡【开机更新检查全链路实测通过】：开机 1.5 秒无感静默检查自更新，发现新版本即刻弹出更新卡片并支持断点续传；",
-                      "💎【专属账号状态与角色名全屏打通】：右上角胶囊、菜单状态与主页问候语 100% 同步为真实角色名；",
-                      "📦【服主一键导出更新清单完美就绪】：双行通栏大按钮舒展大气，1秒精准导出 manifest.json。"
+                      "🚀【彻底根治专属账号启动空引用报错】：补齐专属登录输入映射器 McLoginInput 与可用性校验，彻底消除 未将对象引用设置到对象的实例红色气泡；",
+                      "💎【离线 UUID 资产无损拉起】：专属玩家进入游戏严格遵循离线标准 UUID，全服地皮、背包、箱子锁、等级点券 100% 完好继承；",
+                      "⚡【进服免验证绿色通道秒级报备】：启动游戏前自动向 ZhuZhuSync 报备专属特许名单，进服无需验证码直接秒进畅玩；",
+                      "📦【GitHub 仓库与 Releases 同步指南】：明确自更新 update.json 需提交覆盖主仓库 main 分支以保障旧版启动器精准推送。"
                   ],
-    "version":  "0.5.30",
-    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.30/v0.5.30zhuzhu.exe",
-    "versionCode":  37,
+    "version":  "0.5.31",
+    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.31/v0.5.31zhuzhu.exe",
+    "versionCode":  38,
     "releaseDate":  "2026-11-09",
     "forceUpdate":  false,
-    "title":  "🎉 猪猪启动器 快照版 0.5.30 四大高速加速节点自动轮询与全链路实测发布！"
+    "title":  "🎉 猪猪启动器 快照版 0.5.31 专属账号启动闭环与空引用根治发布！"
 }
