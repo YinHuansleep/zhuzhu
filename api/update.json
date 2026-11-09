@@ -1,14 +1,14 @@
 {
-    "version": "0.5.36",
-    "versionCode": 43,
-    "title": "🎉 猪猪启动器 快照版 0.5.36 全局键盘反射越界崩溃根治与专属模组同步显隐发布！",
+    "version": "0.5.37",
+    "versionCode": 44,
+    "title": "🎉 猪猪启动器 快照版 0.5.37 专属特权隔离与离线模式纯净启动加固发布！",
     "releaseDate": "2026-11-10",
     "forceUpdate": false,
-    "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.36/v0.5.36zhuzhu.exe",
+    "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.37/v0.5.37zhuzhu.exe",
     "changelog": [
-        "🛡️【全局键盘反射越界崩溃彻底根治】：重构全局 KeyDown 弹窗按键路由，采用安全反射探测与异常兜底，彻底消灭按回车 MissingMemberException 错误红框；",
-        "⚡【专属登录支持一键回车提交】：在专属登录与注册输入框中支持按回车键直接登录认证、按 Esc 键安全退出，交互流畅自然；",
-        "👁️【同步服务器模组专属动态显示】：版本展开菜单中的【🔄 同步服务器模组】仅在使用掌上明猪专属账号时呈现，离线玩家界面清爽纯净；",
-        "💎【原生纯净排版与真实 SLP 离线探测巩固】：保持四标签纯净导航栏与真实 Minecraft SLP 开关机探测机制。"
+        "🔒【模组自动同步专属严格隔离】：彻底剥离宽松判定，锁定仅限掌上明猪专属登录账号（LoginType=6）生效，离线玩家启动 0 同步 0 干扰；",
+        "🛡️【进服免验证特许收拢防越权】：进服免 2FA 预报备严格绑定专属登录身份，离线玩家进服强制执行 QQ 群验证码验证，守卫服务器安全；",
+        "⚡【键盘交互安全与一键登录巩固】：全局按键安全反射防护，专属登录支持回车直接认证与 Esc 安全关闭；",
+        "🎨【纯净排版与原生 SLP 离线探测】：保持四标签纯净导航栏与 Minecraft 原生 SLP 开关机探测机制。"
     ]
 }
