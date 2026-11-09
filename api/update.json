@@ -1,14 +1,14 @@
-﻿{
-    "changelog":  [
-                      "🔒【专属登录状态持久锁定】：彻底根除主界面刷新将专属账号重置为离线的逻辑漏洞，左侧面板与右上角稳固锁定专属账号；",
-                      "⚡【进服 2FA 免验证码彻底闭环】：专属玩家启动游戏自动发送进服特许，游戏服连接直接解除 2FA 弹窗，秒进服务器绝不再要求输入验证码；",
-                      "🛠️【模组热更引擎脱壳与路径修正】：彻底剥离云端 manifest.json 的 UTF-8 BOM 隐藏字符，修正 mods/ 路径拼接，主页新增【🔄 同步服务器模组】主动入口；",
-                      "💎【离线 UUID 与背包地皮 100% 继承】：标准原版算法计算离线 UUID，玩家所有服务器资产完好无损。"
-                  ],
-    "version":  "0.5.33",
-    "downloadUrl":  "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.33/v0.5.33zhuzhu.exe",
-    "versionCode":  40,
-    "releaseDate":  "2026-11-09",
-    "forceUpdate":  false,
-    "title":  "🎉 猪猪启动器 快照版 0.5.33 专属登录锁定、进服 2FA 免验证彻底闭环发布！"
+{
+    "version": "0.5.34",
+    "versionCode": 41,
+    "title": "🎉 猪猪启动器 快照版 0.5.34 展开菜单集成同步、规范归档与免验证特许直通发布！",
+    "releaseDate": "2026-11-10",
+    "forceUpdate": false,
+    "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.34/v0.5.34zhuzhu.exe",
+    "changelog": [
+        "📦【版本操作展开菜单无缝收拢】：移除右上角违和同步按钮，在主页胶囊按钮【选择版本】展开菜单中优雅新增【🔄 同步服务器模组】；",
+        "🗂️【废弃模组规范化归档】：淘汰旧模组统一归档至版本目录下的 mods_backup/ 文件夹并按日期管理，彻底根除根目录散落带时分秒长名目录；",
+        "⚡【进服免验证特许即时广播直通】：AstrBot 收到启动器专属玩家报备后，立即向 Minecraft 服务端同步下发批准特许，客户端进服秒通，绝不再弹 2FA 验证码；",
+        "🔒【专属账号防回跳离线底层加固】：在状态刷新顶层增加专属模式绝对守卫，启动前、启动中、游戏退出后 100% 稳固锁定专属账号，绝不偷跳离线模式。"
+    ]
 }
