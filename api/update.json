@@ -1,14 +1,12 @@
 {
-    "version": "0.5.37",
-    "versionCode": 44,
-    "title": "🎉 猪猪启动器 快照版 0.5.37 专属特权隔离与离线模式纯净启动加固发布！",
-    "releaseDate": "2026-11-10",
+    "version": "0.5.39",
+    "versionCode": 46,
+    "title": "🎉 猪猪启动器 0.5.39 现代卡片排版与大文件极速同步发布！",
+    "releaseDate": "2026-11-21",
     "forceUpdate": false,
-    "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.37/v0.5.37zhuzhu.exe",
+    "downloadUrl": "https://gh-proxy.com/https://github.com/YinHuansleep/zhuzhu/releases/download/v0.5.39/v0.5.39zhuzhu.exe",
     "changelog": [
-        "🔒【模组自动同步专属严格隔离】：彻底剥离宽松判定，锁定仅限掌上明猪专属登录账号（LoginType=6）生效，离线玩家启动 0 同步 0 干扰；",
-        "🛡️【进服免验证特许收拢防越权】：进服免 2FA 预报备严格绑定专属登录身份，离线玩家进服强制执行 QQ 群验证码验证，守卫服务器安全；",
-        "⚡【键盘交互安全与一键登录巩固】：全局按键安全反射防护，专属登录支持回车直接认证与 Esc 安全关闭；",
-        "🎨【纯净排版与原生 SLP 离线探测】：保持四标签纯净导航栏与 Minecraft 原生 SLP 开关机探测机制。"
+        "📦【大文件整合包 Releases 同步】：突破 25MB 限制，支持完整大型模组包极速同步；",
+        "⚡【全后台异步与双轨日志】：彻底告别界面卡死与无响应，异常诊断全面升级。"
     ]
 }
